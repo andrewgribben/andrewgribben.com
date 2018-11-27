@@ -1,5 +1,4 @@
 # Andrew Gribben
-## Contact Details
 [Email](mailto:andrew@grib.co) | [Phone](tel:00447881693224) | [Web](http://grib.co)
 
 ## Accessibility & web standards specialist
