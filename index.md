@@ -1,7 +1,7 @@
 # Andrew Gribben
 Accessibility & web standards specialist
 ## Contact Details
-[sa.gribben@gmail.com](mailto://sa.gribben@gmail.com) | +44 7881 693 224 | [http://grib.co](http://grib.co)
+[Email](mailto://andrew@grib.co) | [Phone](tel://00447881693224) | [Web](http://grib.co)
 
 Team lead with an extensive engineering background, responsible for the technology & standards that used to develop accessible content and web applications.
 
