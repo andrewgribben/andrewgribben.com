@@ -12,7 +12,7 @@ Skilled at building strong relationships with senior leaders, collaborating acro
 - Technical Leadership (Agile)
   - E-learning, Digital Publications & Reading Systems
   - Continuous Integration & Automated testing
- - EPUB | HTML | CSS | Javascript | WCAG | WAI-ARIA 
+ - EPUB, HTML, CSS, Javascript, WCAG | WAI-ARIA 
 
 ### Fields of Research
   - Accessibility and Assistive technologies
