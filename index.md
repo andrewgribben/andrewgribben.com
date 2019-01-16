@@ -23,10 +23,31 @@ Skilled at building strong relationships with senior leaders, collaborating acro
 #### HMH: The Learning Company
 ##### Technical Product Owner _from March 2017_
 ###### Responsibilities
-- Accessibility Subject Matter Expert
-- Leading a multi-disciplinary team to develop and analyse solution design and agree detailed functional and technical specifications and plans.
-- Building a deep understanding of the needs of internal and external users of the data products 
-- Detailed understanding of modern web development APIs
+
+**Accessibility Subject Matter Expert**
+
+- Showing passion and empathy for *all* users in order to resolve difficulties they face whilst using our software.
+- Accessibility auditing using a range of tools, such as JAWS, NVDA and VoiceOver, ChromeVox etc. 
+- Demonstrated experience with Accessibility standards and guidelines such as 508, 255, CVAA and WCAG.
+- Effectively communicating and evangelising the complexities of Accessibility to technical and non-technical audiences - including executive, individual contributors and team audiences with varying skillsets.
+- Identifying key issues impacting user experience for users with disabilities and driving the appropriate changes across engineering, design and learning architecture.
+- Coaching engineering teams through manual and automated Accessibility testing.
+- Partnering with multiple organisations to identify the support needed to drive accessibility efforts.
+- Providing code samples and technical POCs, documentation and training.
+
+**Leading a multi-disciplinary team to develop high profile projects, connected to multiple services, working with stakeholders from several countries to create a single robust solution.**
+
+- Effective at influencing and negotiating at the executive level, communicating explicit and implicit trade-offs that impact the enterprise.
+- Developing and prioritising product backlogs; explaining a product vision that is compelling to customers, team and stakeholders alike.
+- Demonstrating creativity, innovation and ethical thinking in applying solutions for the benefit of our end users - students & teachers.
+
+**Detailed understanding of Modern Web Development**
+
+- Experience writing and reviewing code.
+- Detailed understanding of modern development practices including TDD and CI/CD, including the setup of Jenkins for automated end-to-end testing.
+- Keeping knowledge and skills up-to-date and maintaining an awareness of industry developments.
+- Use of AWS for scalable web hosting and content delivery.
+
 
 ###### Previous Roles
 - Lead Engineer  _July 2015 to January 2017_
@@ -39,7 +60,7 @@ Skilled at building strong relationships with senior leaders, collaborating acro
   - Providing Instructional Design for online training, educational content and rulebooks for tabletop war-games.
   - Business development, working with ed-tech clients in the UK, Ireland and USA. Working with Invest NI to become a finalist in the 2010 Propel Program and receiving the European Regional Development Fund R&D Grant.
 - Development of AWS Cloudflare based PaaS Geiger for sale, entitlement and distribution of DRM free ebooks
-- Deployment and management of G Suite for Education including configuration of SSO with Microsoft Azure based directory services.
+- Deployment and management of G-Suite for Education including configuration of SSO with Microsoft Azure based directory services.
 
 ###### Key Clients
   - Mantic Entertainment Ltd
@@ -56,7 +77,7 @@ Skilled at building strong relationships with senior leaders, collaborating acro
 
 ###### Responsibilities & Projects
 - Standard teaching duties
-- Deployment and management of G Suite for Education (then known as Google Apps) including configuration of SSO with Microsoft Azure based directory services.
+- Deployment and management of G-Suite for Education (then known as Google Apps) including configuration of SSO with Microsoft Azure based directory services.
 
 #### University of Ulster
 ##### IT User Services Officer _2005 - 2007_
