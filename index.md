@@ -1,7 +1,7 @@
 # Andrew Gribben
 [Email](mailto:andrew@grib.co) | [Phone](tel:00447881693224) | [Web](http://grib.co)
 
-## Digital Accessibility & EPUB Specialist
+## Digital Accessibility Specialist
 Team lead with an extensive engineering background, currently responsible for the technology & standards that HMH uses to develop standards-based, accessible content and web applications.
 
 Skilled at building strong relationships with senior leaders, collaborating across the organisation and using various techniques to facilitate innovation whilst focusing on the bigger picture with the confidence to engage constructively to challenge established approaches.
