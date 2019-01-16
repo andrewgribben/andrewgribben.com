@@ -110,4 +110,3 @@ _A-Level - Biology, Maths, AS-Level - Chemistry, Computer Science _
 As a former teacher Andrew's experience has seen him working as a consultant for several startups and outside of work gives seminars on the importance of inclusion, web standards, accessibility and ebook development and is even known to blog about it (occasionally).
 
 Andrew is co-creator and producer of the Ordinary People Podcast and loves strategy wargames, retro video games, good coffee and building Lego with his wife and kids. 
-
