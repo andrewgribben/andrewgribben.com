@@ -20,7 +20,7 @@ Skilled at building strong relationships with senior leaders, collaborating acro
   - W3C Micropub, Digital Publishing
 
 ### Professional Experience
-#### HMH: The Learning Company
+#### HMH: The Learning Company - Dublin, Ireland
 ##### Technical Product Owner _from March 2017_
 ###### Responsibilities
 
@@ -53,7 +53,7 @@ Skilled at building strong relationships with senior leaders, collaborating acro
 - Lead Engineer  _July 2015 to January 2017_
 - Contract Engineer _April 2013 to July 2015_
 
-#### Purple Guerrilla
+#### Purple Guerrilla - Belfast, United Kingdom
 ##### Director & Technical Principal _2011 - 2015_
 ###### Responsibilities & Projects
   - Running an IT consultancy focused on the publishing and ed-tech sectors. Leading a team of developers and designers to develop web and mobile learning apps and content delivery platform.
@@ -71,7 +71,7 @@ Skilled at building strong relationships with senior leaders, collaborating acro
   - Colourpoint Creative Ltd
   - Mount Laurel School District (NJ)
 
-#### Independent Christian Schools of Ulster
+#### Independent Christian Schools of Ulster - Kilkeel, Northern Ireland
 ##### GCSE Digital Technology Teacher (Voluntary) _2016 - 2018_
 ##### GCSE Mathematics Teacher _2009 - 2012_
 
@@ -79,10 +79,10 @@ Skilled at building strong relationships with senior leaders, collaborating acro
 - Standard teaching duties
 - Deployment and management of G-Suite for Education (then known as Google Apps) including configuration of SSO with Microsoft Azure based directory services.
 
-#### University of Ulster
+#### University of Ulster - Belfast, Northern Ireland
 ##### IT User Services Officer _2005 - 2007_
 
-#### Intel Corporation
+#### Intel Corporation - Leixlip, Ireland
 ##### Student Software Engineer _2004 - 2005_
 
 ### Personal Development
